@@ -1,0 +1,17 @@
+{
+  "name": "discord-tabs-extension",
+  "version": "0.1.0",
+  "description": "Experimental Edge extension that adds tab-like navigation to discord.com/app.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "clean": "rimraf dist",
+    "build": "node scripts/build.mjs",
+    "watch": "node scripts/build.mjs --watch"
+  },
+  "devDependencies": {
+    "esbuild": "^0.23.1",
+    "rimraf": "^6.0.1",
+    "typescript": "^5.6.3"
+  }
+}

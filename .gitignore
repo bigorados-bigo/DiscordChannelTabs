@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Build outputs
+dist/
+
+# Logs and debug artifacts
+*.log
+logs/
+
+# Editor junk
+.DS_Store
+Thumbs.db
