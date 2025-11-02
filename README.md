@@ -2,6 +2,8 @@
 
 A Chrome/Edge Manifest V3 extension that brings a lightweight tab bar to [discord.com/app](https://discord.com/app). It mirrors key workflows from the original BetterDiscord ChannelTabs plugin while avoiding unsupported client mods.
 
+![Discord Channel Tabs screenshot](docs/screenshot.png)
+
 ## Features
 
 - Pinned tabs for guild channels, DMs, and the friends view
